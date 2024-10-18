@@ -1,0 +1,9 @@
+const friends = ['sadia', 'nadia', 'lima', 'rima'];
+
+const nums = [];
+
+const food = 'ro sho g o lla';
+
+console.log(Array.isArray(nums));
+console.log(Array.isArray(friends));
+console.log(Array.isArray(food));
